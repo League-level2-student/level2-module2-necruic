@@ -20,5 +20,6 @@ public class AnimalRunner {
 		c.play();
 		c.eat();
 		c.sleep();
+		
 	}
 }
